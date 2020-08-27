@@ -1,1 +1,2 @@
-Add two numbers
+Add two number
+Add three numbers
